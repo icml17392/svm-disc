@@ -1,3 +1,3 @@
 # svm-disc
 
-# On the Interpretability of Linear SVM using Mixed Integer Programming
+# A discrete weights based SVM classifier 
